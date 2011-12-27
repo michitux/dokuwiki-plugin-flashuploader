@@ -1,0 +1,7 @@
+base   flashuploader
+author Michael Hamann
+email  michael@content-space.de
+date   2011-12-27
+name   flashuploader plugin
+desc   The ugly old flash uploader for uploading multiple files in IE
+url    http://dokuwiki.org/plugin:flashuploader
