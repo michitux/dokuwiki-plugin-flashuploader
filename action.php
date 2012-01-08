@@ -61,7 +61,7 @@ class action_plugin_flashuploader extends DokuWiki_Action_Plugin {
         </div>
         <div id="dw__flashupload">
         <div class="upload"><?php echo $lang['mu_intro']?></div>
-        <?php echo html_flashobject(DOKU_BASE.'lib/plugins/flashuploader/_fla/multipleUpload.swf','500','190',null,$opt); ?>
+        <?php echo html_flashobject(DOKU_BASE.'lib/plugins/flashuploader/multipleUpload.swf','500','190',null,$opt); ?>
 <?php
     }
 
